@@ -1,5 +1,1 @@
-RatePass is an application that rates your password on a scale of 1 to 6, using factors such as:
--Other commonly used terms or passwords
--Uppercase lowercase 
--Symbols
-100% Safe to use
+RatePass is a simple yet powerful application designed to evaluate the strength of your passwords. By analyzing various factors, including length, character variety, and uniqueness, RatePass provides a comprehensive rating on a scale from 1 to 6, helping you ensure your passwords are secure. The application also checks against a list of the 10,000 most commonly used passwords to help you avoid weak and easily guessable choices.
